@@ -13,6 +13,7 @@
 
 ## SW
 
+- BLE for WiFi credentials (and control: fmAntennaLevel, volumeLevel, highLevel, lowLevel, webradioName)
 - Connect to WiFi
 - WebRadios
 - TEA5767
